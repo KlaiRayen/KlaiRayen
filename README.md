@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rayen Klai</h1>
-<h3 align="center">Data Science student from Tunisia</h3>
+<h3 align="center">Data Science Student | Aspiring Data Scientist | Enthusiastic About Machine Learning, AI, and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klairayen&label=Profile%20views&color=0e75b6&style=flat" alt="klairayen" /> </p>
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I'm a final-year Data Science engineering student passionate about solving real-world problems using data analytics, machine learning, and artificial intelligence. Eager to leverage my technical skills and academic knowledge in a professional setting.
 
 - 💬 Ask me about **Django and Symfony**
 
 - 📫 How to reach me **Rayen.klai@esprit.tn**
+  
+- 📍 Location: Tunisia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
